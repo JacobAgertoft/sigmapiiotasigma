@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: red;
+    background: white;
  
 }
  
@@ -38,13 +38,13 @@ nav ul li
 {
     display: inline-block;
     margin-right: 50px;
-    color: white;
+    color: #403B5F;
     font-weight: 700;
 }
  
 a{
     text-decoration: none;
-    color:rgb(255, 255, 255); ;
+    color:#403B5F; ;
 }
  
 p{
@@ -82,17 +82,17 @@ p{
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: #403B5F;
 }
  
 .col-3
 {
-    flex-basis: 50%;
+    flex-basis: 100%;
     min-width: 300px;
 }
  
 .col-3 img {
-    max-width: 100%;
+    width: 100%;
     padding: 50px 50px;
 }
  
@@ -100,17 +100,17 @@ p{
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: #403B5F;
 }
 
 .col-4
 {
-    flex-basis: 50%;
+    flex-basis: 100%;
     min-width: 300px;
 }
  
 .col-4 img {
-    max-width: 100%;
+    width: 100%;
     padding: 50px 50px;
 }
  
@@ -118,17 +118,17 @@ p{
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: #403B5F;
 }
 
 .col-5
 {
-    flex-basis: 50%;
+    flex-basis: 100%;
     min-width: 300px;
 }
  
 .col-5 img {
-    max-width: 100%;
+    width: 100%;
     padding: 50px 50px;
 }
  
@@ -136,17 +136,17 @@ p{
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: #403B5F;
 }
 
 .col-6
 {
-    flex-basis: 50%;
+    flex-basis: 100%;
     min-width: 300px;
 }
  
 .col-6 img {
-    max-width: 100%;
+    width: 100%;
     padding: 50px 50px;
 }
  
@@ -154,17 +154,17 @@ p{
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: #403B5F;
 }
 
 .col-7
 {
-    flex-basis: 50%;
+    flex-basis: 100%;
     min-width: 300px;
 }
  
 .col-7 img {
-    max-width: 100%;
+    width: 100%;
     padding: 50px 50px;
 }
  
@@ -172,17 +172,17 @@ p{
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: #403B5F;
 }
 
 .col-8
 {
-    flex-basis: 50%;
+    flex-basis: 100%;
     min-width: 300px;
 }
  
 .col-8 img {
-    max-width: 100%;
+    width: 100%;
     padding: 50px 50px;
 }
  
@@ -190,32 +190,32 @@ p{
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: #403B5F;
 }
 
 .col-8 ul {
-    color: rgb(255, 255, 255);
+    color: #403B5F;
 }
 
 .title-1 h1 {
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: #403B5F;
 }
 
 .text_info
 {
     font-size: 40px;
     font-weight: 200;
-    color: white;
+    color: #403B5F;
 }
  
 .text_para
 {
     margin-top: 2rem;
     border-radius: 10px;
-    color: white;
+    color: #403B5F;
 }
  
 .btn
@@ -255,9 +255,14 @@ footer {
 }
 
 table {
-    color: white;
+    color: #403B5F;
     border: 1px solid;
     border-collapse:separate; 
     border-spacing: 0.5cm;
+}
+
+#logo {
+    background-color: #403B5F;
+    padding: 0.2cm;
 }
 

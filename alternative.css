@@ -63,6 +63,9 @@ p{
 {
     display: flex;
     align-items: center;
+    width:30%; 
+    margin-left:35%; 
+    margin-right:35%;
     flex-wrap: wrap;
     justify-content: space-around;
 }

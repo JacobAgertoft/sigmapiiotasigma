@@ -74,7 +74,7 @@ p{
 }
  
 .col-2 img {
-    max-width: 100%;
+    max-width: 80%;
     padding: 50px 50px;
 }
  
@@ -87,12 +87,13 @@ p{
  
 .col-3
 {
+    text-align: center;
     flex-basis: 100%;
     min-width: 300px;
 }
  
 .col-3 img {
-    width: 100%;
+    width: 80%;
     padding: 50px 50px;
 }
  
@@ -105,12 +106,13 @@ p{
 
 .col-4
 {
+    text-align: center;
     flex-basis: 100%;
     min-width: 300px;
 }
  
 .col-4 img {
-    width: 100%;
+    width: 80%;
     padding: 50px 50px;
 }
  
@@ -123,12 +125,13 @@ p{
 
 .col-5
 {
+    text-align: center;
     flex-basis: 100%;
     min-width: 300px;
 }
  
 .col-5 img {
-    width: 100%;
+    width: 80%;
     padding: 50px 50px;
 }
  
@@ -141,12 +144,13 @@ p{
 
 .col-6
 {
+    text-align: center;
     flex-basis: 100%;
     min-width: 300px;
 }
  
 .col-6 img {
-    width: 100%;
+    width: 80%;
     padding: 50px 50px;
 }
  
@@ -159,12 +163,13 @@ p{
 
 .col-7
 {
+    text-align: center;
     flex-basis: 100%;
     min-width: 300px;
 }
  
 .col-7 img {
-    width: 100%;
+    width: 80%;
     padding: 50px 50px;
 }
  
@@ -177,12 +182,13 @@ p{
 
 .col-8
 {
+    text-align: center;
     flex-basis: 100%;
     min-width: 300px;
 }
  
 .col-8 img {
-    width: 100%;
+    width: 80%;
     padding: 50px 50px;
 }
  

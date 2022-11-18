@@ -44,11 +44,7 @@ nav ul li
  
 a{
     text-decoration: none;
-    color:rgb(255, 255, 255); ;
-}
- 
-p{
-    color: #D2B48C;
+    color:white; ;
 }
  
 .container
@@ -82,7 +78,7 @@ p{
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: white;
 }
  
 .col-3
@@ -100,7 +96,7 @@ p{
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 .col-4
@@ -118,7 +114,7 @@ p{
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 .col-5
@@ -136,7 +132,7 @@ p{
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 .col-6
@@ -154,7 +150,7 @@ p{
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 .col-7
@@ -172,7 +168,7 @@ p{
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 .col-8
@@ -190,18 +186,18 @@ p{
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 .col-8 ul {
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 .title-1 h1 {
     font-size: 50px;
     line-height: 32px;
     margin: 25px 0;
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 .text_info
@@ -262,6 +258,6 @@ table {
 }
 
 table a {
-    color: rgb(66, 171, 220);
+    color: #42ABDC;
 }
 

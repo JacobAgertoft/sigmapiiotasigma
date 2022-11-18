@@ -7,7 +7,7 @@
     padding: 0;
     box-sizing: border-box;
     background: white;
- 
+    font-family: "Times New Roman", Times, serif;
 }
  
 body{
@@ -61,6 +61,16 @@ p{
  
 .row
 {
+    display: flex;
+    align-items: center;
+    /* width:30%; 
+    margin-left:35%; 
+    margin-right:35%; */
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.row .col-3 table {
     display: flex;
     align-items: center;
     width:30%; 

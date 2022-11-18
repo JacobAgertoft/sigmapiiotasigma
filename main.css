@@ -261,3 +261,7 @@ table {
     border-spacing: 0.5cm;
 }
 
+table a {
+    color: rgb(66, 171, 220);
+}
+

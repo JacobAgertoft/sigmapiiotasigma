@@ -1,18 +1,15 @@
-@import url('http://fonts.googleapis.com/css?family=Roboto');
- 
- 
 *
 {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     background: white;
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Arial", Times, serif;
 }
  
 body{
  
-    font-family: 'Roboto', sans-serif;
+    font-family: "Arial", Times, serif;
     height: 100vh;
 }
  
@@ -47,10 +44,6 @@ a{
     color:#403B5F; ;
 }
  
-p{
-    color: #D2B48C;
-}
- 
 .container
 {
     max-width: 1400px;
@@ -63,9 +56,6 @@ p{
 {
     display: flex;
     align-items: center;
-    /* width:30%; 
-    margin-left:35%; 
-    margin-right:35%; */
     flex-wrap: wrap;
     justify-content: space-around;
 }
@@ -214,6 +204,8 @@ p{
 
 .col-8 ul {
     color: #403B5F;
+    text-align: center;
+    list-style-position: inside;
 }
 
 .title-1 h1 {
@@ -248,7 +240,7 @@ p{
 }
  
 .btn:hover {
-    background: #D2B48C;
+    background: #403B5F;
     color: white;
     transition: 0.9s;
 }
@@ -264,7 +256,7 @@ p{
 }
  
 .btn2:hover {
-    background: #D2B48C;
+    background: #403B5F;
     color: white;
     transition: 0.9s;
 }
@@ -285,3 +277,6 @@ table {
     padding: 0.2cm;
 }
 
+table a {
+    color: rgb(66, 171, 220);
+}

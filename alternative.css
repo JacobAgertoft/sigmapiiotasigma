@@ -232,11 +232,12 @@ a{
 .btn
 {
     display: inline-block;
-    background: #f0f0f0;
+    background: #D2B48C;
     color: #403B5F;
     padding: 22px 29px;
     margin: 30px 0;
     border-radius: 9px;
+    border-color: #D2B48C;
 }
  
 .btn:hover {
@@ -248,7 +249,7 @@ a{
 .btn2
 {
     display: inline-block;
-    background: #f0f0f0;
+    background: #D2B48C;
     color: #403B5F;
     padding: 22px 29px;
     margin: 30px 0;

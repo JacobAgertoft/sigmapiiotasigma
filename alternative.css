@@ -27,13 +27,11 @@ nav{
 }
  
 nav ul{
-    /* display: inline-block; */
     list-style-type: none;
 }
  
 nav ul li 
 {
-    /* display: inline-block; */
     margin-right: 50px;
     color: #403B5F;
     font-weight: 700;
